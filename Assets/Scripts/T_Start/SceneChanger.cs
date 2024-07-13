@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 using JetBrains.Annotations;
 using TMPro;
 
-public class SceneChange : MonoBehaviour
+public class SceneChange: MonoBehaviour
 {
   public Image fadePanel;
   [SerializeField] private string sceneName;
